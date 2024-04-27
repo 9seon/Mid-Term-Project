@@ -1,28 +1,9 @@
 ---
 layout: post
-title:  "This is Just Another Post"
-date:   2017-03-25 01:30:13 +0800
+title:  "Recent favorite song"
+date:   2024-04-27 07:25:13 +0800
 categories: default
 tags: test
 ---
-I have some text.
-
-I want some _italics_.
-
-I want some **bold**.
-
-# this is heading 1
-
-## this is heading 2
-
-### this is heading 3
-
-you want a list?
-* first
-* second
-* third
-
-you want an ordered list?
-1. whatever
-1. whatever
-1. whatever
+I like pop music. This is my recent favorite song.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zhs6t9gB4_4?si=wsb_yUq-2iRpdYge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

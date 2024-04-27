@@ -6,5 +6,4 @@ categories: Personal
 tags: favorite
 ---
 'Gromit' from the Wallace and Gromit
-<img src="{{site.baseurl}}/assets/res/wallace_gromit.jpg" alt="My Image" width="200" height="200"><br>
-<img src="{{site.baseurl}}/assets/res/w_and_g.jpeg" alt="My Image" width="200" height="100">
+<img src="{{site.baseurl}}/assets/res/wallace_gromit.jpg" alt="My Image" width="200" height="200">

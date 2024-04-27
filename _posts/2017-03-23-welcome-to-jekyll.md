@@ -2,11 +2,12 @@
 layout: post
 title:  "Introduction"
 date:   2024-04-27 07:25:15 +0800
-categories: Default
-tags: test Test
+categories: Professional
+tags: introduce
 comments: 1
 ---
-Name: Seonju Koo
+<p><b>Name:</b><br> 
+  Seonju Koo</p>
 
 <p><b>Education:</b><br>
   Dankook Univ. Department of Software</p>

@@ -6,4 +6,4 @@ categories: default
 tags: test syntax
 ---
 'Gromit' from the Wallace and Gromit
-<img src="{{site.baseurl}}/assets/res/user.png" alt="My Image">
+<img src="{{site.baseurl}}/assets/res/wallace_gromit.jpg" alt="My Image" width="200" height="200">

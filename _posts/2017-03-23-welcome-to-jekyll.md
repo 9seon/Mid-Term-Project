@@ -8,21 +8,21 @@ comments: 1
 ---
 Name: Seonju Koo
 
-<b><p>Education:</p></b>
-  Dankook Univ. Department of Software
+<p><b>Education:</b><br>
+  Dankook Univ. Department of Software</p>
 
-<b><p>Skill:</p></b>
-  <p>Main - C/C++, Java</p>
-  <p>Sub - Linux, Python</P>
-  <p>Experience - R, SQL</p>
+<p><b>Skill:</b><br>
+  Main - C/C++, Java<br>
+  Sub - Linux, Python<br>
+  Experience - R, SQL</p>
 
-<b><p>Interests:</p></b>
-  <p>System Software</p>
-  <p>-Divice Driver, Operating System</p>
-  <p>Embeded System</p>
+<p><b>Interests:</b><br>
+  System Software<br>
+  -Divice Driver, Operating System<br>
+  Embeded System</p>
 
-<b><p>Favorite things:</p></b>
-  <p>Drawing pictures</p>
-  <p>Watching movies</p>
-  <p>Playing some instruments(ex.Piano, flute, Saxophone)</p> 
-  <p>Hang out with my friends.</p>
+<p><b>Favorite things:</b><br>
+  Drawing pictures<br>
+  Watching movies<br>
+  Playing some instruments(ex.Piano, flute, Saxophone)<br> 
+  Hang out with my friends.</p>

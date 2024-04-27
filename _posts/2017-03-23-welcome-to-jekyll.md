@@ -6,6 +6,7 @@ categories: Professional
 tags: introduce
 comments: 1
 ---
+<img src="{{site.baseurl}}/assets/res/wallace_gromit.jpg" alt="My Image" width="200" height="100"><br>
 <p><b>Name:</b><br> 
   Seonju Koo</p>
 

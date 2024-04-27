@@ -6,7 +6,7 @@ categories: Professional
 tags: introduce
 comments: 1
 ---
-<img src="{{site.baseurl}}/assets/res/introduction.jpeg" alt="My Image" width="200" height="100"><br>
+<img src="{{site.baseurl}}/assets/res/introduction.jpg" alt="My Image" width="200" height="100"><br>
 <p><b>Name:</b><br> 
   Seonju Koo</p>
 
